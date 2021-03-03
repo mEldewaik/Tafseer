@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "اختيار التفسير"; ObjectID = "3ar-DK-lmf"; */
+"3ar-DK-lmf.text" = "اختيار التفسير";
+
+/* Class = "UITextField"; placeholder = "اسم التفسير"; ObjectID = "CUg-bK-ZaG"; */
+"CUg-bK-ZaG.placeholder" = "اسم التفسير";
+
+/* Class = "UILabel"; text = "اختر الكل"; ObjectID = "Ee5-4S-hJl"; */
+"Ee5-4S-hJl.text" = "اختر الكل";
+
+/* Class = "UISegmentedControl"; K87-tD-W7s.segmentTitles[0] = "المصحف"; ObjectID = "K87-tD-W7s"; */
+"K87-tD-W7s.segmentTitles[0]" = "المصحف";
+
+/* Class = "UISegmentedControl"; K87-tD-W7s.segmentTitles[1] = "التفاسير "; ObjectID = "K87-tD-W7s"; */
+"K87-tD-W7s.segmentTitles[1]" = "التفاسير ";
+
+/* Class = "UISegmentedControl"; K87-tD-W7s.segmentTitles[2] = "الترجمات"; ObjectID = "K87-tD-W7s"; */
+"K87-tD-W7s.segmentTitles[2]" = "الترجمات";
+
+/* Class = "UILabel"; text = "قم باختيار كتاب تفسير من بين أكثر من 100 كتاب"; ObjectID = "LFf-5F-4zC"; */
+"LFf-5F-4zC.text" = "قم باختيار كتاب تفسير من بين أكثر من 100 كتاب";
+
+/* Class = "UILabel"; text = "قم باختيار التفسير"; ObjectID = "Mce-Sl-4V7"; */
+"Mce-Sl-4V7.text" = "قم باختيار التفسير";
+
+/* Class = "UILabel"; text = "زيد بن علي"; ObjectID = "RD6-wB-bwU"; */
+"RD6-wB-bwU.text" = "زيد بن علي";
+
+/* Class = "UILabel"; text = "قائمة التفاسير"; ObjectID = "ZXq-wb-3m9"; */
+"ZXq-wb-3m9.text" = "قائمة التفاسير";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "bnM-2M-3M9"; */
+"bnM-2M-3M9.text" = "Share";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "kym-me-z9j"; */
+"kym-me-z9j.text" = "Bookmark";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "pY1-SL-uQK"; */
+"pY1-SL-uQK.text" = "Favorites";
+
+/* Class = "UILabel"; text = "غريب القرآن لزيد بن علي - 120 ھ"; ObjectID = "rTn-AN-eyt"; */
+"rTn-AN-eyt.text" = "غريب القرآن لزيد بن علي - 120 ھ";
+
+/* Class = "UILabel"; text = "Add Note"; ObjectID = "umB-On-OUA"; */
+"umB-On-OUA.text" = "Add Note";
